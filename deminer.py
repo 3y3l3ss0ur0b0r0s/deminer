@@ -1,7 +1,7 @@
-# Deminer is a beginner Python project that will help develop knowledge of:
-    # Recursion
-    # Classes
-    # https://www.youtube.com/watch?v=8ext9G7xspg&t=5236s
+# This was written by Danielle Bertulfo on 03/18/2022.
+    # Email: danielle.bertulfo.coding@gmail.com
+    # GitHub: 3y3l3ss0ur0b0r0s
+# This was written using Kylie Ying's tutorial (https://www.youtube.com/watch?v=8ext9G7xspg&t=5236s).
 
 import random
 import re
